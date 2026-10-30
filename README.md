@@ -1,2 +1,6 @@
 # Smart-AI-based-Intrusion-Detection-System
 This is a project where specially it is designed for farmers where it identifies and detects intrusion if occured by an intruder who unofficially enters into a farm and creates choas which results in the loss in terms of profit he gains as well with crops so for a safer side this even works better than CCtv's by detecting person and animals.
+Here the technologies used are YOLO which stands for You Look Only Once (deep learning library)  where it detects the objects and also confidence level has been added where it detection is based on its level of confidence and here it is upto 70% and openCV is a computer vision algorithm, it is it's accuracy level of detecting an object.
+As well as the working goes like first main.py file is executed first where a webcam(laptop) is opened and detects the objects, this detected object is stored on a database and whenever it is necessary it can be checked by the owner.
+The main part is that when an object is detected a telegram notification is immediatly within a fraction of seconds it is sent to user's phone where it is more helpful and this alert system is designed only between the timings of 6:00PM to 6:00AM.
+Currently it is working as a software but later it is updated into hardware version as future enhancement.
