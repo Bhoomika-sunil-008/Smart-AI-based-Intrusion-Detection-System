@@ -4,3 +4,4 @@ Here the technologies used are YOLO which stands for You Look Only Once (deep le
 As well as the working goes like first main.py file is executed first where a webcam(laptop) is opened and detects the objects, this detected object is stored on a database and whenever it is necessary it can be checked by the owner.
 The main part is that when an object is detected a telegram notification is immediatly within a fraction of seconds it is sent to user's phone where it is more helpful and this alert system is designed only between the timings of 6:00PM to 6:00AM.
 Currently it is working as a software but later it is updated into hardware version as future enhancement.
+Here the Fake bot number is given for safety purposes.
